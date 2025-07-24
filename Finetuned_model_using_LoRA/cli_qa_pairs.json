@@ -1,0 +1,602 @@
+[
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  },
+  {
+    "instruction": "How to create a new Git branch and switch to it?",
+    "output": "Use `git checkout -b <branch-name>` to create and switch."
+  },
+  {
+    "instruction": "How to initialize a new Git repository?",
+    "output": "Run `git init` in your project directory."
+  },
+  {
+    "instruction": "How to check the current Git branch?",
+    "output": "Use `git branch` to list all branches and highlight the current one."
+  },
+  {
+    "instruction": "How to stage all changes in Git?",
+    "output": "Run `git add .` to stage all modified and new files."
+  },
+  {
+    "instruction": "How to commit changes in Git with a message?",
+    "output": "Use `git commit -m \"your message\"` to commit staged changes."
+  }
+]
